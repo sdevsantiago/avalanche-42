@@ -1,0 +1,11 @@
+{
+  "name": "avalanche-ai",
+  "version": "1.0.0",
+  "description": "A small AI with Avalanche and Brian AI to automate transactions and make them easier.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sdevsantiago",
+  "license": "MIT"
+}
